@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/colorAccent">
+    <item
+        android:drawable="@drawable/gp5"
+        android:state_focused="true"
+        android:state_pressed="true" />
+    <item
+        android:drawable="@drawable/gp5"
+        android:state_focused="false"
+        android:state_pressed="true" />
+    <item
+        android:drawable="@drawable/gp5"
+        android:state_focused="true" />
+    <item
+        android:drawable="@drawable/gp5"
+        android:state_focused="false"
+        android:state_pressed="false" />
+</ripple>

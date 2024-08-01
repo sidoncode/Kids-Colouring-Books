@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_share"
+        android:clickable="true"
+        android:icon="@drawable/share_icon"
+        android:title="@string/action_share"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_save"
+        android:clickable="true"
+        android:icon="@drawable/save_icon"
+        android:title="@string/action_save"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_mute"
+        android:clickable="true"
+        android:icon="@drawable/sound_on"
+        android:title="@string/action_mute"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_undo"
+        android:clickable="true"
+        android:icon="@drawable/undo_icon"
+        android:title="@string/action_undo"
+        app:showAsAction="always" />
+
+
+</menu>

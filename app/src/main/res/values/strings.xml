@@ -1,0 +1,110 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Coloring Book</string>
+    <string name="action_share">Share</string>
+    <string name="action_save">Save</string>
+    <string name="nav_drawer_opened">drawer opened</string>
+    <string name="nav_drawer_closed">drawer closed</string>
+    <string name="Share_The_App">Share the app</string>
+    <string name="save">Image has been saved</string>
+    <string name="permission">Permission is required</string>
+    <string name="main">Home</string>
+    <string name="about">About</string>
+    <string name="rate">Rate</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="about_text">About text</string>
+
+
+    <!--Categories-->
+    <string name="flowers">Flowers</string>
+    <string name="cartoons">Cartoons</string>
+    <string name="foods">Foods</string>
+    <string name="animals">Animals</string>
+    <string name="nature">Nature</string>
+    <string name="transport">Transportation</string>
+
+
+    <!--AdMob Untie Ids-->
+    <string name="pub_id">pub-3940256099942544</string>
+    <string name="appId">ca-app-pub-4745538230523629~5976167715</string>
+    <string name="banner_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="privacypolicy">Privacy Policy</string>
+    <string name="soon">Existing the app</string>
+    <string name="settings">Settings</string>
+    <string name="ads">Reset Ads</string>
+    <string name="gdpr_privacypolicy" tools:ignore="TypographyDashes">https://firebasestorage.googleapis.com/v0/b/coloring-book-a4581.appspot.com/o/Privacy%20Policy.pdf?alt=media&amp;token=3b6661c4-a266-4c04-a128-2b3eef952ae4</string>
+
+    <string name="no_data">No data</string>
+    <string name="dialog_close">Close</string>
+    <string name="google_partners">Google partner</string>
+    <string name="eu_consent_text">We care about your privacy and data security. We keep this app free by showing ads.</string>
+    <string name="eu_consent_question">Can we continue to use your data to tailor ads for you?</string>
+    <string name="eu_consent_yes">Yes, continue to see relevant ads</string>
+    <string name="eu_consent_no">No, see ads that are less relevant</string>
+    <string name="action_remove_ads">Existing the app</string>
+    <string name="eu_consent_change_setting">You can change your choice anytime from the app settings</string>
+    <string name="learn_more">Learn how our partners collect and use data:</string>
+    <string name="action_mute">Mute</string>
+    <string name="soundon">Music enabled</string>
+    <string name="soundoff">Music disabled</string>
+    <string name="action_undo">Undo</string>
+    <string name="nomore">No previous steps</string>
+    <string name="chooseColor">Choose color</string>
+
+    <array name="Thumbnails1">
+        <item>@drawable/gp1_1</item>
+        <item>@drawable/gp1_2</item>
+        <item>@drawable/gp1_3</item>
+        <item>@drawable/gp1_4</item>
+        <item>@drawable/gp1_5</item>
+        <item>@drawable/gp1_6</item>
+
+    </array>
+
+    <array name="Thumbnails2">
+        <item>@drawable/gp2_1</item>
+        <item>@drawable/gp2_2</item>
+        <item>@drawable/gp2_3</item>
+        <item>@drawable/gp2_4</item>
+        <item>@drawable/gp2_5</item>
+        <item>@drawable/gp2_6</item>
+    </array>
+
+    <array name="Thumbnails3">
+        <item>@drawable/gp3_1</item>
+        <item>@drawable/gp3_2</item>
+        <item>@drawable/gp3_3</item>
+        <item>@drawable/gp3_4</item>
+        <item>@drawable/gp3_5</item>
+        <item>@drawable/gp3_6</item>
+    </array>
+
+    <array name="Thumbnails4">
+        <item>@drawable/gp4_1</item>
+        <item>@drawable/gp4_2</item>
+        <item>@drawable/gp4_3</item>
+        <item>@drawable/gp4_4</item>
+        <item>@drawable/gp4_5</item>
+        <item>@drawable/gp4_6</item>
+    </array>
+
+    <array name="Thumbnails5">
+        <item>@drawable/gp5_1</item>
+        <item>@drawable/gp5_2</item>
+        <item>@drawable/gp5_3</item>
+        <item>@drawable/gp5_4</item>
+        <item>@drawable/gp5_5</item>
+        <item>@drawable/gp5_6</item>
+    </array>
+
+    <array name="Thumbnails6">
+        <item>@drawable/gp6_1</item>
+        <item>@drawable/gp6_2</item>
+        <item>@drawable/gp6_3</item>
+        <item>@drawable/gp6_4</item>
+        <item>@drawable/gp6_5</item>
+        <item>@drawable/gp6_6</item>
+    </array>
+</resources>
